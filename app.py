@@ -5,4 +5,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello():
-    return "Hello from Flask running inside Docker on EC2!"
+    return "Hello from Flask running inside Docker on for retriggering!"
