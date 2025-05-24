@@ -1,4 +1,4 @@
-name: CI/CD: Test + Deploy Flask App to EC2
+name: CICD Test  Deploy Flask App to EC2
 
 on:
   push:
