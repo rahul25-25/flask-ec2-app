@@ -59,3 +59,4 @@ jobs:
           sudo docker run -d --name flask-app -p 8000:8000 flask-ec2-app
         EOF
 
+
