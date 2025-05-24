@@ -2,6 +2,7 @@ from flask import Flask
 
 app = Flask(__name__)
 
+
 @app.route('/')
 def hello():
-    return "Hello from Flask on Docker!"
+    return "Hello from Flask running inside Docker on EC2!"
